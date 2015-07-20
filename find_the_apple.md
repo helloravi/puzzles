@@ -1,4 +1,4 @@
-You are give three boxes that each read,
+You are given three boxes that each read,
 
 Box 1: The apple is in this box.
 
